@@ -1,0 +1,10 @@
+
+pathes:
+  data_path : "data/transactions.csv"
+  save_path : "results/processed_data.csv"
+  log_file : "logs/log.log"
+
+n : 7
+
+
+
